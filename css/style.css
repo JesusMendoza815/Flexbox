@@ -202,7 +202,7 @@ h1, h2 {
 }
 
 
-/*flex shourhand*/
+/*flex shorthand*/
 
 /*13*/
 
@@ -215,5 +215,6 @@ h1, h2 {
     flex-shrink: 2;
     flex-basis: 33.3%;*/
     
+    /*forma corta grow shrink basis*/
     flex: 1 1 33.3%;
 }
